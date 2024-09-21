@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/VJEm.gif)]
+![MasterHead](https://i.gifer.com/VJEm.gif)
 <h1 align="center">Hi 👋, I'm Madiyar</h1>
 <h3 align="center">Front-End React Developer, 2-year student at SDU. My Telegram : @anxxxgls</h3>
 <img align="right" width="400" src='https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif'>
